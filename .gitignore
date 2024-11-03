@@ -108,7 +108,7 @@ build/
 /shelf/
 /resources/static/
 /resources/front/
-workspace.xml
+.idea/workspace.xml
 *.iml
 *.ucls
 
