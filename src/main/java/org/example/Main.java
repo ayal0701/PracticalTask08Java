@@ -23,6 +23,8 @@ public class Main {
         bookCollection.addBook(new Book("The Vanishing Half", "Brit Bennett", "Fiction", 2020));
         bookCollection.addBook(new Book("The Midnight Library", "Matt Haig", "Fiction", 2020));
 
+
+
         boolean running = true;
         while (running) {
             System.out.println("\n==================Choose an operation==================");
